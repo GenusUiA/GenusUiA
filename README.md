@@ -36,13 +36,7 @@ I’m a beginner backend developer who is taking the first steps in IT through p
 ### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://github.com/GenusUiA">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GenusUiA&hide_border=true" alt="GitHub Streak" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/GenusUiA">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenusUiA&layout=compact&hide_border=true" alt="Top Languages" />
-</a>
+  <a href="https://github.com/GenusUiA">
+    <img src="https://github-readme-stats.vercel.app/api?username=GenusUiA&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
 </p>
